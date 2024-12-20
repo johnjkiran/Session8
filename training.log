@@ -13,3 +13,8 @@ INFO:root:Test Loss: 1.048 | Test Acc: 62.680%
 INFO:root:Test Loss: 0.988 | Test Acc: 64.410%
 INFO:root:Test Loss: 1.004 | Test Acc: 64.310%
 INFO:root:Test Loss: 1.198 | Test Acc: 58.940%
+INFO:root:Test Loss: 0.980 | Test Acc: 65.380%
+INFO:root:Test Loss: 1.017 | Test Acc: 63.390%
+INFO:root:Test Loss: 0.983 | Test Acc: 65.300%
+INFO:root:Test Loss: 0.978 | Test Acc: 65.760%
+INFO:root:Test Loss: 0.890 | Test Acc: 68.530%
