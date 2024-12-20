@@ -1,0 +1,15 @@
+INFO:root:Test Loss: 1.518 | Test Acc: 45.380%
+INFO:root:Test Loss: 1.342 | Test Acc: 54.310%
+INFO:root:Test Loss: 1.203 | Test Acc: 56.820%
+INFO:root:Test Loss: 1.472 | Test Acc: 45.830%
+INFO:root:Test Loss: 1.311 | Test Acc: 52.230%
+INFO:root:Test Loss: 1.297 | Test Acc: 52.880%
+INFO:root:Test Loss: 1.161 | Test Acc: 58.320%
+INFO:root:Test Loss: 1.141 | Test Acc: 59.030%
+INFO:root:Test Loss: 1.175 | Test Acc: 56.740%
+INFO:root:Test Loss: 1.121 | Test Acc: 59.160%
+INFO:root:Test Loss: 1.168 | Test Acc: 59.730%
+INFO:root:Test Loss: 1.048 | Test Acc: 62.680%
+INFO:root:Test Loss: 0.988 | Test Acc: 64.410%
+INFO:root:Test Loss: 1.004 | Test Acc: 64.310%
+INFO:root:Test Loss: 1.198 | Test Acc: 58.940%
